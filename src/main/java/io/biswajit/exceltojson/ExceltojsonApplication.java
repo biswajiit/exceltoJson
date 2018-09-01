@@ -1,4 +1,4 @@
-package com.nextjob.jobInventory;
+package io.biswajit.exceltojson;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
